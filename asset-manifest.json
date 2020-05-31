@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fabyeon/static/css/main.3336ac26.chunk.css",
+    "main.js": "/fabyeon/static/js/main.30ee96df.chunk.js",
+    "main.js.map": "/fabyeon/static/js/main.30ee96df.chunk.js.map",
+    "runtime-main.js": "/fabyeon/static/js/runtime-main.277dfdfd.js",
+    "runtime-main.js.map": "/fabyeon/static/js/runtime-main.277dfdfd.js.map",
+    "static/js/2.c811adaf.chunk.js": "/fabyeon/static/js/2.c811adaf.chunk.js",
+    "static/js/2.c811adaf.chunk.js.map": "/fabyeon/static/js/2.c811adaf.chunk.js.map",
+    "index.html": "/fabyeon/index.html",
+    "precache-manifest.cb6518bf3011fe49ec99ac467b3038d6.js": "/fabyeon/precache-manifest.cb6518bf3011fe49ec99ac467b3038d6.js",
+    "service-worker.js": "/fabyeon/service-worker.js",
+    "static/css/main.3336ac26.chunk.css.map": "/fabyeon/static/css/main.3336ac26.chunk.css.map",
+    "static/js/2.c811adaf.chunk.js.LICENSE.txt": "/fabyeon/static/js/2.c811adaf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.277dfdfd.js",
+    "static/js/2.c811adaf.chunk.js",
+    "static/css/main.3336ac26.chunk.css",
+    "static/js/main.30ee96df.chunk.js"
+  ]
+}
