@@ -1,0 +1,104 @@
+:root{
+    box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+section{
+    display: block;
+
+}
+.mainScreen{
+    display: flex;
+    
+    height: 52.5vw;
+}
+.title{
+    font: 600 3.3vw Roboto;
+    width: 35vw;
+    margin: 5vw auto 3vw 12vw;
+    text-align: start;
+}
+h3{
+    font: 400 2.50vw Roboto;
+    margin: 3vw 0 0 12vw;
+    width: 30vw;
+}
+h4{
+    font: 600 2.50vw Roboto;
+    margin: 3vw auto 0 auto;
+    width: 30vw; 
+}
+.actionButton{
+    height: 1.72vw;
+    font: 400 0.93vw Roboto;
+    border: none;
+    border-radius: 0.25vw;
+    outline: none;
+    margin: 0.5vw 0 0.5vw 12vw;
+
+}
+.button-wraper{
+    margin-top: 13vw;
+    display: flex;
+    flex-direction: column;
+}
+.red{
+    width: 4.72vw;
+    background: #DB4437;
+    color: white;
+}
+.yellow{
+    width: 8.76vw;
+    background: #F4B400;
+    color: black
+}
+.titlePart{
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+    width: 58vw;
+}
+
+.greenPart{
+    background: #0F9D58;
+   
+    color: white;
+    width: 42vw;
+    display: flex;
+    justify-content: center;
+}
+.greenPart h2{
+    display: block;
+    width: 16vw;
+    font: 400 1.24vw Roboto;
+    text-align: justify;
+    margin: auto;
+}
+
+.reviewSection{
+    display: flex;
+    align-items: flex-start;
+}
+#lorem{
+    width: 60vw;
+    font: 400 1.2vw Roboto;
+    margin: 3vw auto 2vw auto;
+    text-align: justify;
+}
+.green{
+    background: #0F9D58;
+    color: white;
+}
+.yellow-2{
+background: #F4B400;
+color: black;
+}
+.lowActionButton{
+    width: 23.8vw;
+    height: 3.38vw;
+    font: 600 1.5vw Roboto;
+    border: none;
+    border-radius: 0.35vw;
+    outline: none;
+    margin: 0.5vw auto 0.5vw auto;
+}

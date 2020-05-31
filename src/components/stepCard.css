@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.stepCard{
+    display: flex;
+    justify-content: start;
+    border: none;
+    width: 30vw;
+    padding: 1vw;
+    border-radius: 0.25vw;
+}
+.higherRow{
+    display: flex;
+    justify-content: space-evenly;
+    width: 20vw;
+    flex-direction: column;
+    text-align: start;
+    margin: 0.6vw 0.3vw 0.6vw 2vw;
+}
+
+.spanNumber{
+    border-radius: 50%;
+    background: green;
+    width: 5vw;
+    height: 5vw;
+    color: white;
+    font: 600 2vw Montserrat;
+}
+.spanNumber p{
+    display: block;
+    margin: 1.25vw auto;
+}
+.spanStepTitle{
+    font: 600 1.8vw Roboto;
+    
+}
+.spanText{
+    font: 600 1.2vw Roboto;
+    text-align: justify;
+}

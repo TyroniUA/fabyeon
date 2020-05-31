@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.reviewCard{
+    width: 30.5vw;
+    height:19.9vw;
+    box-shadow: 0px 5px 15px rgba(0,0,0, 0.3);
+    border-radius: 0.5vw;
+    margin: 2vw 1vw 2vw 1vw;
+}
+
+.revTitle{
+    display: block;
+    margin: 6vw auto 0.5vw 0.3vw;
+    width: 4vw;
+    font: 600 1.8vw Roboto;
+    margin: 10vw auto 0.5vw auto;
+
+}
+.revText{
+    font: 400 1.4vw Roboto;
+    margin: 1vw auto 1 vw auto;
+    text-align: justify;
+}
+
